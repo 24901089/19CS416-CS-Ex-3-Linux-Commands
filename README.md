@@ -312,4 +312,4 @@ Syntax: find.-name”*.pdf”
 
 
 ## Result
-Oracle VirtualBox was installed successfully, Kali Linux was configured successfully, and basic Linux commands were executed successfully.
+Oracle VirtualBox was installed successfully, Kali Linux was configured successfully,and basic Linux commands were executed successfully.
